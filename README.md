@@ -1,6 +1,9 @@
-### Hi there 👋
+##check out 
 
-Here are some ideas to get you started:
+- my Linkedin profile  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/matteo-cischele-2b01b51b5/)
+-my portfolio : 
+
+##About me
 
 - 🔭 I’m currently working on ... website for my cv   
 - 🌱 I’m currently learning ... javascript
