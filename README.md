@@ -1,7 +1,7 @@
 ##check out 
 
 - my Linkedin profile  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/matteo-cischele-2b01b51b5/)
--my portfolio : 
+- my portfolio : 
 
 ##About me
 
